@@ -1,6 +1,17 @@
-</head>
-<body>
-<h1>Hi this git branch test</1>
-<p>This is a test 1 and will do more</p> <a href="https://campus.uoc.edu/">www.www.www.com </a>
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Gandalf Message</title>
+    <script>
+      window.onload = function() {
+        alert("You shall not pass!");
+      };
+    </script>
+  </head>
+  <body>
+    <h1>Welcome, traveler...</h1>
+    <p>But Gandalf has something to say 👇</p>
+  </body>
+</html>
 
